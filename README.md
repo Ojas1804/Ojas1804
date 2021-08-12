@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ojas1804
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Python for data science
+- 🌱 I’m currently learning Java and Python for data science and cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedIn
 
