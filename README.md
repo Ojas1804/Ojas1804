@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1804&theme=dark" width="48%" >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1804&layout=compact)
+![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas1804&show_icons=true)
