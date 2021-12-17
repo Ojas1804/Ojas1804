@@ -9,4 +9,4 @@ Ojas1804/Ojas1804 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username={Ojas1804}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ojas1804&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
