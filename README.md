@@ -1,10 +1,9 @@
-# 👋 Hi, I’m @Ojas1804
+# 👋 Hi, I’m Ojas Srivastava
 - 👀 I’m interested in Blockchain and Data Science
 - 🌱 I’m currently learning Cryptography for Blockchain technologies and Stats for Data Science
-- 📫 Social Media: 
-[LinkedIn](https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)       
-[Twitter](https://twitter.com/srivastava_ojas)     
-[Personal Website](https://ojas1804.github.io/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-ojas-srivastava-94bb051bb-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)](https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)
+[![Website Badge](https://img.shields.io/badge/-ojas1804.github.io?style=flat&logo=Google-Chrome&logoColor=white&link=https://ojas1804.github.io/portfolio/)](https://ojas1804.github.io/portfolio/)
+[![Twitter Badge](https://img.shields.io/badge/-@srivastava_ojas?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 
 <!---
 Ojas1804/Ojas1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
