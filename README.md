@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1804&theme=dark&layout=compact)
 
+<br /><br />
 ## My Latest Blogs
 
 - <a href = "https://www.s-tronomic.in/post/92"> What Does Physics have to say about Free Will? </a>
