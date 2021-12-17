@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I’m Ojas Srivastava 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-I'm a college student from India pursuing Bachelors in Computer Science. I am interested in **blockchain technologies and data science**. Currently I'm learning **cryptography and stats** for blockchain and Data Science<b>Here is how you can connect with me</b>:
+I'm a college student from India pursuing Bachelors in Computer Science.  I am interested in **blockchain technologies and data science**.  Currently I'm learning **cryptography and stats** for blockchain and Data Science<b>.  Here is how you can connect with me</b>:
 
 [![Twitter Badge](https://img.shields.io/badge/ojas-twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srivastava_ojas)](https://twitter.com/srivastava_ojas)
 [![Linkedin Badge](https://img.shields.io/badge/ojas-linkedIn-blueviolet?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)](https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)
