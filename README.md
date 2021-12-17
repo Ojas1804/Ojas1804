@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m Ojas Srivastava 
+<h1 align="center"> Hi, I’m Ojas Srivastava 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 I'm a college student from India pursuing Bachelors in Computer Science.  I am interested in **blockchain technologies and data science**.  Currently I'm learning **cryptography and stats** for blockchain and Data Science<b>.  Here is how you can connect with me</b>:
