@@ -6,7 +6,6 @@ I'm a college student from India pursuing Bachelors in Computer Science.  I am i
 [![Twitter Badge](https://img.shields.io/badge/ojas-twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/srivastava_ojas)](https://twitter.com/srivastava_ojas)
 [![Linkedin Badge](https://img.shields.io/badge/ojas-linkedIn-blueviolet?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)](https://www.linkedin.com/in/ojas-srivastava-94bb051bb/)
 [![Website Badge](https://img.shields.io/badge/ojas-website-success?style=flat&logo=Google-Chrome&logoColor=white&link=https://ojas1804.github.io/portfolio/)](https://ojas1804.github.io/portfolio/)
-
 <br /><br />
 <!---
 Ojas1804/Ojas1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
