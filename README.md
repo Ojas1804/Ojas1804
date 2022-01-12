@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 <br /><br />
 ## My Latest Blogs
 
+- <a href = "https://www.s-tronomic.in/post/97"> The Bootstrap Paradox and Possible Solutions </a>
+- <a href = "https://www.s-tronomic.in/post/96"> Use of Complex Numbers in Quantum Computers </a>
+- <a href = "https://www.s-tronomic.in/post/95"> The Confusion About Web3 </a>
 - <a href = "https://www.s-tronomic.in/post/93"> How does SHA-256 Algorithm work? </a>
 - <a href = "https://www.s-tronomic.in/post/92"> What Does Physics have to say about Free Will? </a>
-- <a href = "https://www.s-tronomic.in/post/91"> Why India couldn't Produce Good Fast Bowlers In The Past </a>
-- <a href = "https://www.s-tronomic.in/post/90"> Public Key Cryptography in the Quantum Computing Era </a>
-- <a href = "https://www.s-tronomic.in/post/88"> Key-Based Cryptography Algorithms And Their Safety </a>
 
 <br /><br />
 ## Programming Languages
