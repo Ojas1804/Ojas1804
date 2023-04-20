@@ -13,11 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ojas1804&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+![](https://raw.githubusercontent.com/Ojas1804/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ojas1804&theme=dark" width="48%" >
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1804)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/Ojas1804/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <br /><br />
 ## My Latest Blogs
