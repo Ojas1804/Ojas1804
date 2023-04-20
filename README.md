@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Github Stats
 
-![](https://raw.githubusercontent.com/Ojas1804/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/Ojas1804/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas1804&theme=aura&show_icons=true)
 
 <br /><br />
 ## My Latest Blogs
