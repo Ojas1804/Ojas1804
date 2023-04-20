@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 ## Github Stats
 
 ![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas1804&theme=aura&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1804)](https://github.com/Ojas1804/github-readme-stats)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br /><br />
 ## My Latest Blogs
@@ -40,3 +43,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Ojas1804/InfoRet-System)
